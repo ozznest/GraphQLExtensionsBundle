@@ -1,12 +1,12 @@
 {
-  "name": "youshido/graphql-extensions-bundle",
+  "name": "ozznest/graphql-extensions-bundle",
   "description": "Symfony GraphQL Extensions Bundle",
   "license": "mit",
   "authors": [
-    {
-      "name": "Alexandr Viniychuk",
-      "email": "a@viniychuk.com"
-    }
+	{
+		  "name": "Olexiy Chuiko",
+		  "email": "oznest@i.ua"
+	}
 
   ],
   "autoload": {
