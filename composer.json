@@ -18,7 +18,8 @@
     "php": ">=5.6",
     "imagine/imagine": "^0.6.3|^0.7.1",
     "youshido/graphql-bundle": "~1.2",
-    "youshido/graphql-extensions": "~0.0.4"
+    "youshido/graphql-extensions": "~0.0.4",
+	"doctrine/orm": "^2.8"
   },
   
   "require-dev": {

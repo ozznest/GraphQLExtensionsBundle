@@ -9,7 +9,7 @@
 namespace Youshido\GraphQLExtensionsBundle\Service;
 
 
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use Symfony\Component\HttpFoundation\RequestStack;
 use Youshido\GraphQLExtensionsBundle\Model\FileModelInterface;
 use Youshido\GraphQLExtensionsBundle\Service\Locator\Locator;
